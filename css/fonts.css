@@ -1,0 +1,62 @@
+@font-face {
+	font-family: "GT Eesti Pro Display";
+	src: url("../fonts/GTEestiProDisplay-Light.eot");
+	src: local("GT Eesti Pro Display Light"), local("GTEestiProDisplay-Light"),
+		url("../fonts/GTEestiProDisplay-Light.woff2") format("woff2");
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "GT Eesti Pro Display";
+	src: url("../fonts/GTEestiProDisplay-LightItalic.eot");
+	src: local("GT Eesti Pro Display Light Italic"),
+		local("GTEestiProDisplay-LightItalic"),
+		url("../fonts/GTEestiProDisplay-LightItalic.woff2") format("woff2");
+	font-weight: 300;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "GT Eesti Pro Display";
+	src: url("../fonts/GTEestiProDisplay-Regular.eot");
+	src: local("GT Eesti Pro Display Regular"), local("GTEestiProDisplay-Regular"),
+		url("../fonts/GTEestiProDisplay-Regular.woff2") format("woff2");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "GT Eesti Pro Display";
+	src: url("../fonts/GTEestiProDisplay-RegularItalic.eot");
+	src: local("GT Eesti Pro Display Regular Italic"),
+		local("GTEestiProDisplay-RegularItalic"),
+		url("../fonts/GTEestiProDisplay-RegularItalic.woff2") format("woff2");
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "GT Eesti Pro Display";
+	src: url("../fonts/GTEestiProDisplay-Medium.eot");
+	src: local("GT Eesti Pro Display Medium"), local("GTEestiProDisplay-Medium"),
+		url("../fonts/GTEestiProDisplay-Medium.woff2") format("woff2");
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "GT Eesti Pro Display";
+	src: url("../fonts/GTEestiProDisplay-MediumItalic.eot");
+	src: local("GT Eesti Pro Display Medium Italic"),
+		local("GTEestiProDisplay-MediumItalic"),
+		url("../fonts/GTEestiProDisplay-MediumItalic.woff2") format("woff2");
+	font-weight: 500;
+	font-style: italic;
+	font-display: swap;
+}
